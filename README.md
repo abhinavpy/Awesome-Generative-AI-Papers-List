@@ -24,6 +24,15 @@ To contribute to this repository, please adhere to the following guidelines:
 
 For detailed instructions, please refer to the `CONTRIBUTING.md` file.
 
+## List
+
+### Foundational Papers
+| Title of Paper | Date | Arxiv/Conference Published |
+| -------------- | ---- | -------------------------- |
+| [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | June 2014 | NeurIPS 2014 |
+| [Auto-Encoding Variational Bayes - Variational Autoendcoders](https://arxiv.org/abs/1312.6114) | December 2013 | arxiv |
+| [Pixel Recurrent Neural Network PixelRNN](https://arxiv.org/abs/1601.06759) | January 2016 | ICML 2016 |
+
 ## License
 
 This repository is licensed under the Creative Commons License, which is a widely used license for academic and research content. This license allows others to share, copy, distribute, and adapt the work, as long as they give appropriate credit to the original authors.
