@@ -35,12 +35,7 @@ For detailed instructions, please refer to the `CONTRIBUTING.md` file.
 
 ## License
 
-This repository is licensed under the Creative Commons License, which is a widely used license for academic and research content. This license allows others to share, copy, distribute, and adapt the work, as long as they give appropriate credit to the original authors.
-Here are a few reasons why I chose the Creative Commons License:
-1. Attribution: Contributors must give appropriate credit, provide a link to the license and indicate if changes were made.
-2. Flexibility: It allows for both commercial and non-commerical use, which can help in wider dissemination and use of the research.
-3. Adaptability: Others can remix, transform, and build upon the material, which is beneficial for collaborative academic work.
-For more details, please see the `LICENSE` file.
+We chose the MIT License for its simplicity and permissiveness. It allows users to freely use, modify, and distribute the code with minimal restrictions, fostering innovation and collaboration while providing legal protection for contributors.
 
 ## Contact
 
